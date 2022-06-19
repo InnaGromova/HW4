@@ -34,7 +34,7 @@ public class main {
         }
 
         if (((h - e) < 0) || ((k - e) > 0)) {
-            System.out.println("Одно из вырежаний верно");
+            System.out.println("Одно из выражений верно");
         }
 
         int j = e;
